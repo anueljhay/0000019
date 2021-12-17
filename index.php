@@ -31,4 +31,3 @@ echo "//]]>\n";
 echo "</script>\n";
 
 ?>
-?>
